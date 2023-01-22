@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Xingyu Zhou',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'www.zhouxingyu.me',
   author: 'Xingyu Zhou',
 
   // open graph metadata (optional)
