@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Xingyu Zhou',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Personal website of Xingyu Zhou ',
 
   // social usernames (optional)
   twitter: 'XingyuPhD',
