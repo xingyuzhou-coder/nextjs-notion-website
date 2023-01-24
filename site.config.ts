@@ -10,11 +10,11 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Xingyu Zhou',
-  domain: 'www.zhouxingyu.me',
+  domain: 'www.xingyuzhou.me',
   author: 'Xingyu Zhou',
 
   // open graph metadata (optional)
-  description: 'Personal website of Xingyu Zhou ',
+  description: 'Xingyu Zhou \'s Personal Website',
 
   // social usernames (optional)
   twitter: 'XingyuPhD',
