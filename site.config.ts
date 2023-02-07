@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '9e61102330a04652af68cf10017de7a3',
+  rootNotionPageId: '547aee4817b64058a3acb9a55af1a8d9',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Xingyu Zhou',
-  domain: 'www.xingyuzhou.me',
+  domain: 'www.xyzhou.me',
   author: 'Xingyu Zhou',
 
   // open graph metadata (optional)
@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'XingyuPhD',
-  github: 'zhouxingyu-warwick',
+  github: 'xingyuzhouphd',
   linkedin: 'xingyuzhou94',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
