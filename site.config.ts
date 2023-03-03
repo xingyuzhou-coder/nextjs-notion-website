@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Xingyu Zhou',
-  domain: 'www.xingyuzhou.me',
+  domain: 'xingyuzhou.me',
   author: 'Xingyu Zhou',
 
   // open graph metadata (optional)
