@@ -7,6 +7,7 @@ import { FaMastodon } from '@react-icons/all-files/fa/FaMastodon'
 import { FaTwitter } from '@react-icons/all-files/fa/FaTwitter'
 import { FaYoutube } from '@react-icons/all-files/fa/FaYoutube'
 import { FaZhihu } from '@react-icons/all-files/fa/FaZhihu'
+import { FaGooglescholar } from '@react-icons/all-files/fa/FaGooglescholar'
 import { IoMoonSharp } from '@react-icons/all-files/io5/IoMoonSharp'
 import { IoSunnyOutline } from '@react-icons/all-files/io5/IoSunnyOutline'
 
@@ -61,6 +62,18 @@ export const FooterImpl: React.FC = () => {
             rel='noopener noreferrer'
           >
             <FaTwitter />
+          </a>
+        )}
+        
+         {config.googlescholar && (
+          <a
+            className={styles.googlescholar}
+            href={`https://scholar.google.com/${config.googlescholar}`}
+            title={`GoogleScholar @${config.googlescholar}`}
+            target='_blank'
+            rel='noopener noreferrer'
+          >
+            <FaGooglescholar />
           </a>
         )}
 
