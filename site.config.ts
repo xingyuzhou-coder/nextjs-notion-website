@@ -20,6 +20,7 @@ export default siteConfig({
   twitter: 'XingyuPhD',
   github: 'xingyuzhouphd',
   linkedin: 'xingyuzhou94',
+  googlescholar: 'citations?user=uPfaTxcAAAAJ'
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
