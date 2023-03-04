@@ -17,8 +17,8 @@ export default siteConfig({
   description: 'Xingyu Zhou \'s Personal Website',
 
   // social usernames (optional)
-  twitter: 'XingyuPhD',
-  github: 'xingyuzhouphd',
+  //twitter: 'XingyuPhD',
+  //github: 'xingyuzhouphd',
   linkedin: 'xingyuzhou94',
   googlescholar: 'citations?user=uPfaTxcAAAAJ',
   researchgate: 'profile/Xingyu-Zhou-11',
