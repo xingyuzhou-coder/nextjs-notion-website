@@ -6,7 +6,7 @@ import { FaLinkedin } from '@react-icons/all-files/fa/FaLinkedin'
 import { FaMastodon } from '@react-icons/all-files/fa/FaMastodon'
 import { FaTwitter } from '@react-icons/all-files/fa/FaTwitter'
 import { FaYoutube } from '@react-icons/all-files/fa/FaYoutube'
-import { FaZhihu } from '@react-icons/all-files/fa/FaZhihu'
+import { SiGooglescholar } from '@react-icons/all-files/si/SiGooglescholar'
 import { IoMoonSharp } from '@react-icons/all-files/io5/IoMoonSharp'
 import { IoSunnyOutline } from '@react-icons/all-files/io5/IoSunnyOutline'
 
@@ -76,15 +76,15 @@ export const FooterImpl: React.FC = () => {
           </a>
         )}
 
-        {config.zhihu && (
+        {config.googlescholar && (
           <a
-            className={styles.zhihu}
-            href={`https://zhihu.com/people/${config.zhihu}`}
-            title={`Zhihu @${config.zhihu}`}
+            className={styles.googlescholar}
+            href={`https://scholar.google.com/${config.googlescholar}`}
+            title={`GoogleScholar @${config.googlescholar}`}
             target='_blank'
             rel='noopener noreferrer'
           >
-            <FaZhihu />
+            <SiGooglescholar />
           </a>
         )}
 
