@@ -7,6 +7,7 @@ import { FaMastodon } from '@react-icons/all-files/fa/FaMastodon'
 import { FaTwitter } from '@react-icons/all-files/fa/FaTwitter'
 import { FaYoutube } from '@react-icons/all-files/fa/FaYoutube'
 import { SiGooglescholar } from '@react-icons/all-files/si/SiGooglescholar'
+import { FaResearchgate } from '@react-icons/all-files/fa/FaResearchgate'
 import { IoMoonSharp } from '@react-icons/all-files/io5/IoMoonSharp'
 import { IoSunnyOutline } from '@react-icons/all-files/io5/IoSunnyOutline'
 
@@ -76,7 +77,19 @@ export const FooterImpl: React.FC = () => {
           </a>
         )}
 
-        {config.googlescholar && (
+        {config.researchgate && (
+          <a
+            className={styles.researchgate}
+            href={`https://www.researchgate.net/${config.researchgate}`}
+            title={`Researchgate @${config.researchgate}`}
+            target='_blank'
+            rel='noopener noreferrer'
+          >
+            <FaResearchgate />
+          </a>
+        )}
+        
+           {config.googlescholar && (
           <a
             className={styles.googlescholar}
             href={`https://scholar.google.com/${config.googlescholar}`}
