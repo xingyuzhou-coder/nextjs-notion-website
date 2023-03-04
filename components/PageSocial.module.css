@@ -107,6 +107,13 @@
   border-color: #FF0000;
 }
 
+.researchgate .actionBgPane {
+  background: #5eccb1;
+}
+.researchgate:hover {
+  border-color: #5eccb1;
+}
+
 .medium .actionBgPane {
   background: #00ab6c;
 }
