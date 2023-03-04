@@ -16,6 +16,7 @@ export interface SiteConfig {
   newsletter?: string
   youtube?: string
   googlescholar?: string
+  researchgate?: string
   mastodon?: string;
 
   defaultPageIcon?: string | null
