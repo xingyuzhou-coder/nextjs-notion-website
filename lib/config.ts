@@ -60,7 +60,7 @@ export const github: string | null = getSiteConfig('github', null)
 export const youtube: string | null = getSiteConfig('youtube', null)
 export const linkedin: string | null = getSiteConfig('linkedin', null)
 export const newsletter: string | null = getSiteConfig('newsletter', null)
-export const zhihu: string | null = getSiteConfig('zhihu', null)
+export const googlescholar: string | null = getSiteConfig('googlescholar', null)
 
 export const getMastodonHandle = (): string | null => {
   if (!mastodon) {
