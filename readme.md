@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://xingyuzhou.me">
-    <img alt="Personal page" src="https://github.com/xingyuzhouphd/Cloud/blob/8f5de0ff348fafba535deeee402ef4b675ff989b/website.png" width="689">
+    <img alt="Personal page" src="https://github.com/xingyuzhouphd/nextjs-notion-zhou/blob/main/website.png" width="689">
   </a>
 </p>
 
