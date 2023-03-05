@@ -4,6 +4,10 @@
   </a>
 </p>
 
+This repo is what I use to Xingyu Zhou's personal website [xingyuzhou.me](https://xingyuzhou.me). There are some modifications for your reference:
+
+1. Add the Google Scholar and ResearchGate icon in the pageside and bottom.
+
 # Next.js Notion Starter Kit
 
 > The perfect starter kit for building websites with Next.js and Notion.
