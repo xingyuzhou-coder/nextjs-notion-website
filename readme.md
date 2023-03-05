@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://xingyuzhou.me">
-    <img alt="Example article page" src="https://user-images.githubusercontent.com/552829/160132094-12875e09-41ec-450a-80fc-ae8cd488129d.jpg" width="689">
+    <img alt="Personal page" src="https://github.com/xingyuzhouphd/Cloud/blob/8f5de0ff348fafba535deeee402ef4b675ff989b/website.png" width="689">
   </a>
 </p>
+
 
 ## Modification
 
