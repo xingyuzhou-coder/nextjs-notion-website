@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://transitivebullsh.it/nextjs-notion-starter-kit">
+  <a href="https://xingyuzhou.me">
     <img alt="Example article page" src="https://user-images.githubusercontent.com/552829/160132094-12875e09-41ec-450a-80fc-ae8cd488129d.jpg" width="689">
   </a>
 </p>
 
-## Reference
+## Modification
 
 This repo is what I use to Xingyu Zhou's personal website [xingyuzhou.me](https://xingyuzhou.me). There are some modifications for your reference:
 
