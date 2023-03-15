@@ -10,7 +10,7 @@
 This repo is forked from [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit). I have made few modifications to power my [personal website](https://xingyuzhou.me).
 
 1. Add the Google Scholar and ResearchGate icon in the pageside and bottom.
-1. Modify the Notion to build a scholar website. Feel free to duplicate my notion page and modify it https://xingyuzhou.notion.site/Xingyu-Zhou-547aee4817b64058a3acb9a55af1a8d9.
+1. Modify the Notion page to build a scholar website. Feel free to duplicate my notion page and modify it [Notion page] (https://xingyuzhou.notion.site/Xingyu-Zhou-547aee4817b64058a3acb9a55af1a8d9).
 
 
 
