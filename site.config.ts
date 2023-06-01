@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   //twitter: 'XingyuPhD',
   //github: 'xingyuzhouphd',
-  linkedin: 'xingyuzhou94',
+  linkedin: 'xingyuzhouphd',
   googlescholar: 'citations?user=uPfaTxcAAAAJ',
   researchgate: 'profile/Xingyu-Zhou-11',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
