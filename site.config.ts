@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Xingyu Zhou - FBH',
+  name: 'Xingyu Zhou',
   domain: 'xingyuzhou.me',
   author: 'Xingyu Zhou',
 
@@ -19,8 +19,8 @@ export default siteConfig({
   // social usernames (optional)
   //twitter: 'XingyuPhD',
   //github: 'xingyuzhouphd',
-  linkedin: 'xingyuzhouphd',
-  googlescholar: 'citations?user=uPfaTxcAAAAJ',
+  linkedin: 'xingyuzhou94',
+  googlescholar: 'citations?user=HTp6aGsAAAAJ',
   researchgate: 'profile/Xingyu-Zhou-11',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
