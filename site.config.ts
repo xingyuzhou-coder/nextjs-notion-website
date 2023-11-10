@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Xingyu Zhou',
+  name: 'Xingyu Zhou - FBH',
   domain: 'xingyuzhou.me',
   author: 'Xingyu Zhou',
 
